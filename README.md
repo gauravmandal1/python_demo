@@ -282,4 +282,9 @@ The _values_ method gives us all the values of a a dictionary as a list.
 dct = {'key1':'value1', 'key2':'value2', 'key3':'value3', 'key4':'value4'}
 values = dct.values()
 print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
+
 ```
+
+## QUIZ
+
+https://z2r1n21t7nr.typeform.com/to/fZ2NbXrI
